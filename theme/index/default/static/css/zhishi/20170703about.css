@@ -1,0 +1,124 @@
+﻿.flexslider{ height: 350px; overflow: hidden;}
+.flexslider .slides a img{height: 350px; overflow: hidden;}
+#index-bigbanner{ height: 350px;}
+.about_navupdate{background: #535353; height: 40px; line-height: 40px; position: relative;z-index: 2;}
+/*.about_nav ul{ background: none; padding: 0;}
+.about_nav ul li{background: none;}*/
+.about_navupdate ul{ text-align: center;}
+.about_navupdate ul li{ display: inline-block; }
+.about_navupdate ul li a{ color: #fff; font-size: 14px; display: inline-block; padding: 0 47px; cursor: pointer;}
+.about_navupdate ul li:hover{background: #ff5256;}
+.about_navupdate ul li.about_nav_cur{background: #ff5256;}
+.about_main{ width: 1220px; margin: 0 auto; float: initial;}
+.about_center_title{ border-bottom: 0;}
+.about_center_title span.contact_title{ font-size: 16px; color: #999999; text-transform:uppercase; font-weight: bold; font-family: 'Arial'; padding: 0 30px;}
+.noBoldupdate{ text-align: center; min-width: 330px; font-size: 26px; margin: 0 auto;}
+.c_intro_text p{ margin:50px 0;}
+.noBoldupdate .noBoldupdatep01{font-size: 26px; margin: 0;color: #333; padding-bottom: 20px;}
+.noBoldupdate .noBoldupdatep02{ margin: 0;  line-height: 30px;}
+.youfu_linianbg{ width: 100%; height: 420px; background: url(../images/20170703contact_us07.jpg) no-repeat center; background-size:cover;  display: block;}
+.about_mainwrap{ width: 100%;}
+.about_main dl{ overflow: hidden; margin-bottom: 43px;}
+.about_main dt{ height: 267px;float: left;}
+.about_maindd{ margin-top:50px; margin-left: 80px;float: left; }
+.about_maindd div{ line-height: 42px; font-size: 14px; color: #666;}
+.about_maindot{ width: 7px; height: 7px; display: inline-block; border-radius: 50%; background: #51afff; vertical-align: middle; margin-right: 10px;}
+.join_uslist{ height: 300px; margin-top: 230px;}
+.join_usli{ width: 226px; height: 240px; border: 1px solid #e8e8e8; float: left; margin-right: 20px; position: relative;}
+.join_usli img{ position: absolute; top: -55px; left: 55px;}
+.join_usliul{ margin-top: 80px;}
+.join_usliul li{ line-height: 30px; text-align: center;}
+.join_usliul li a{ font-size: 14px; color: #333;}
+/*联系我们*/
+.contact2_usmap{ width: 1220px; height: 345px;}
+.contact2_bgli{ width: 99px; height: 99px; margin: 0 auto; background: url(../images/20170703contact2_usbg.png) no-repeat center; text-align: center;}
+.about-contact3 li{ width: 210px; margin:0 70px 100px 0; overflow: hidden;}
+.contact2_bglititle01{ font-size: 18px; font-weight: bold; color: #fff; padding-top: 28px;}
+.contact2_bglititle02{ font-size: 14px; font-weight: bold; color: #fff; padding-top: 5px;}
+.about-contact3 li{ border: 0;}
+.tel_icon01{width: 11px; height: 15px; float: left; display: inline-block; background: url(../images/20170703contact2_usicon01.png) no-repeat;  color: #333;}
+.email_icon01{width: 13px; height: 19px; float: left; display: inline-block; background: url(../images/20170703contact2_usicon02.png) no-repeat center left;  color: #333; margin-right:5px;}
+.addr_icon01{width: 13px; height: 19px; float: left; display: inline-block; background: url(../images/20170703contact2_usicon03.png) no-repeat center left;  }
+.contact2_bgconr{ margin-left:20px; overflow: hidden; display: inline-block;color: #333;}
+.contact2_bgconp01{ position:relative;}
+.contact2_icon{position:absolute;left:0; top:5px;}
+.contact2_bgcon{padding-top: 15px;}
+/*地图样式*/
+/*圆角处理*/
+  .BMap_pop div:nth-child(1){  
+        border-radius:7px 0 0 0;  
+    }  
+    .BMap_pop div:nth-child(3){  
+        border-radius:0 7px 0 0;background:#ABABAB;;  
+        /*background: #ABABAB;*/  
+        width:23px;  
+        width:0px;height;0px;  
+    }  
+    .BMap_pop div:nth-child(3) div{  
+        border-radius:7px;  
+    }  
+    .BMap_pop div:nth-child(5){  
+        border-radius:0 0 0 7px;  
+    }  
+    .BMap_pop div:nth-child(5) div{  
+        border-radius:7px;  
+    }  
+    .BMap_pop div:nth-child(7){  
+        border-radius:0 0 7px 0 ;  
+    }  
+    .BMap_pop div:nth-child div(7){  
+        border-radius:7px ;  
+    }  
+ .BMap_bubble_title{ font-size:14px; color:#ff5256; font-weight:bold;}
+ .BMap_bubble_content{ font-size:12px; color:#666; line-height:28px;}
+ .contact2_usmap{ margin-bottom:50px; margin-top:50px;}
+ .rongyu_ul li{  width:294px; margin-bottom:80px; float:left;margin-right:14px;}
+.rongyu_liimg{height:162px;width:294px; border-bottom:44px solid #b6b6b6;text-align:center;}
+.rongyu_liimg img{ margin-top:20px;}
+.rongyu_ulp01{  line-height:30px; font-size:14px; color:#333333; padding-top:15px;}
+.rongyu_ul li:nth-child(4n){margin-right:0;}
+.jinpai_list01dl{ width:300px; float:left; text-align:center;}
+.main_con{ width:1220px; margin:0 auto; overflow:hidden;}
+.jinpai_list01p01{font-size:16px; color:#333;}
+.jinpai_list01p02{ font-size:14px; color:#999;line-height: 50px;}
+.jinpai_list01{ margin-top:50px;}
+.yanshou_list{ text-align:center; overflow:hidden;}
+.yanshou_ul li{ float:left; width:194px; text-align:center; font-size:16px; color:#333;}
+.yanshou_lip01{ padding-top:20px;}
+.yanshou_lip02{ font-size:14px; color:#666;}
+.weiyue_ul{ width:970px; margin:0 auto; overflow:hidden;}
+.weiyue_ul li{ height:360px; width:295px; border:1px solid #f0f0f0; border-top:3px solid #51afff; float:left;}
+.weiyue_ultxt01{ height:88px; line-height:88px; text-align:center;}
+.fon14{ font-size:14px; color:#666}
+.weiyue_ultxt02p01{ font-size:16px; color:#51afff;}
+.weiyue_ultxt02{ text-align:center; padding-top:50px;}
+.weiyue_ultxt02p02{ font-size:12px; color:#999; padding-top:10px;}
+.kefu_div{ width:933px; border:1px solid #e8e8e8; background:#f7f7f7; margin-top:80px; overflow:hidden; padding:26px 0 23px 35px; font-size:14px; color:#333;}
+.kefu_divl{ width:510px; float:left;}
+.kefu_divlp01{ font-size:18px; color:#ff5256; line-height:50px;}
+.kefu_divlp02{ color:#666;}
+.kefu_btn{ width:160px; height:36px; line-height:36px; border-radius:10px; text-align:center; display:inline-block; float:right; background:#51afff; color:#fff; font-size:14px; margin-top:28px; margin-right:65px;}
+.kefu_btn:hover{background:#3fa5fd;}
+.youshi_maincon{overflow:hidden; width:1130px; margin:0 auto 130px;}
+.youshi_mainconl{ float:left; border:1px solid #f0f0f0; width:490px;}
+.youshi_mainconltop{ height:45px; line-height:45px; background:#535353; font-size:16px; color:#fff; text-align:center; width:100%;}
+.youshi_mainconlicon{ width:7px; height:7px; display:inline-block; background:#cccccc; vertical-align:middle; border-radius:50%; margin-right:5px;}
+.youshi_mainconlcon{ font-size:14px; color:#666; line-height:30px; padding:0 30px; padding-top:30px;}
+.youshi_mainconlcon p{ padding-bottom:30px;}
+.youshi_mainconc{ float: left; width: 145px; text-align: center;}
+.youshi_mainconc img{ margin-top: 177px;}
+.youshi_mainconr .youshi_mainconltop{ background: #51afff;}
+.youshi_mainconr .youshi_mainconlicon{ background: #51afff}
+.about_navupdatefix{position: fixed;width: 100%;top: 0;left: 0;z-index: 99999;}
+.jfw-promise strong{ color: #ff5256;}
+.cate-wrap{ height: auto;}
+.cate-title-list{ display: none;}
+.about_bg{ width: 100%; height: 350px; display: block; background: url(../images/201707014about_bg.jpg) no-repeat center;}
+.mainwrap{ width: 1200px;margin: 0 auto;}
+.case_atxt{ padding-left: 385px;padding-top: 115px;}
+.case_atxtp01{ font-size: 38px; font-weight: bold;color: #fff000;width: 460px; text-align: center;}
+.case_atxtp01 b{ color: #fff;}
+.case_atxtp02{width: 460px; margin-top: 15px; text-align: center; font-size: 20px; color: #fff; line-height: 60px; border-top: 1px solid #ffffff; }
+.case_atxtpbor{ border-top:1px solid #fff; border-bottom: 1px solid #fff; padding: 15px 0;}
+.case_atxtp03{ font-size: 20px; color: #fff; text-align: center; line-height: 40px; width: 460px;}
+.about_memain{ width: 1200px; margin: 0 auto;}

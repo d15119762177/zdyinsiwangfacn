@@ -1,0 +1,11 @@
+﻿body,h1,h2,h3,h4,h5,h6,p{margin:0;}
+h1,h2,h3,h4,h4,h5,h6,em{font-weight:normal;padding:0;}
+ol,ul,li{margin:0;padding:0;}
+li{list-style:none;outline:none;}
+input,button{border:0;padding:0;margin:0;outline:none;}
+img{border:0;margin:0;padding:0;outline:none;vertical-align: bottom;}
+a{text-decoration:none;margin:0;padding:0;outline:none;}
+dl,dd{margin:0;}
+input{border:none;}
+
+html,body{min-height:101%;}

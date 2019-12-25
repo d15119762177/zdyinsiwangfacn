@@ -1,0 +1,28 @@
+﻿/*初始化*/
+*{
+    /*margin:0;*/
+    padding:0;
+}
+h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,ol,span,img,em,i,p,strong{list-style:none; outline:none; border:0; font-style:normal; font-weight:normal; text-decoration:none; font-weight:normal;}
+.overflow{overflow:hidden;}
+.both{clear:both;}
+.ds-body{width:100%; background:#fff; font-family:"微软雅黑"; color:#333;}
+
+/* banner图开始 */
+.big_wrap{width:100%; height:350px; background: url(../images/banner.png) center center no-repeat;}
+.posi_box{width:1220px; margin:10px auto;}
+.jspop{width:190px; overflow: hidden; padding:6px 0; background: #fff}
+.dl{border-bottom: 1px dashed #e8e8e8; padding-bottom:5px;}
+.dl dd{padding:5px 20px;}
+.dl dd a{color:#999; font-size: 12px; display: inline-block; margin-right:10px;}
+.dl dt{color:#333; display: block; width:170px; height:30px; line-height: 30px; padding-left:20px}
+.shouhou_title{width:170px; padding-left: 20px; height:30px; line-height: 30px; font-size:14px; color:#fff; background: #ff5256; border-bottom: 1px solid #e8e8e8}
+/* 内容开始 */
+.bgf7{background: #fff; overflow: hidden;}
+.wrap_content{width: 1220px; margin:0 auto; padding:40px 0;}
+.wrap_c_li{width:248px; margin:0 12px 20px; padding:15px; background: #fff; border: 1px solid #fff}
+.wrap_c_pic{width:131px; height:131px; display: block; margin:0 auto 10px;}
+.wrap_c_li h6{font-size:15px; height:30px; line-height: 30px; color:#333; text-align: center;}
+.wrap_c_li p{font-size:12px; color:#999; line-height: 20px; padding-top: 5px;}
+.more{font-size: 14px; color:#51afff; margin:15px auto 0; text-align: center; width:120px; height:28px; line-height: 28px; border: 1px solid #51afff; display: block;}
+.radius{border-radius: 50%; margin:0 auto; width:131px; height:131px; display: block; overflow: hidden;}

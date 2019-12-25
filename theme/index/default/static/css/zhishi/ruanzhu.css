@@ -1,0 +1,1224 @@
+﻿@charset "utf-8";
+* {
+	/*margin:0px;*/
+	padding:0px;
+	font-family:"微软雅黑", Arial;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family:"微软雅黑", Arial;
+	font-weight:normal;
+}
+.f_second{overflow: hidden; padding-bottom: 40px;}
+.gray_bg{background:#ededed;}
+.w1036{width:1200px;margin:0 auto;position:relative;}
+.f_second h1{letter-spacing:3px;padding-bottom:3px;padding-top:50px;}
+.yellow{color:#c59a6d;}
+h1{font-size:48px;text-align:center;}
+.f_second ul{margin-top:50px;overflow:hidden;}
+ul, li{list-style:outside none none;}
+.f_second ul li{width:230px;float:left;margin-left:6px;margin-right:2px;position:relative; margin-bottom:10px;background: #fff; height:180px; border: 1px solid #e8e8e8}
+.clear{clear:both;}
+.h6_title{width:376px; height:31px; margin:0 auto;}
+.word{font-size:16px; text-align: center; color:#666; display: block; width:230px;}
+.form_show .em_icon{width:70px; height:70px; border-radius: 50%; margin: 40px auto 15px; background:url("../../image/zhishi/bqicon.png") no-repeat; display: block;}
+.form_show .em_icon01{background-position: 0 0;}
+.form_show .em_icon02{background-position: 0 -70px;}
+.form_show .em_icon03{background-position: 0 -140px;}
+.form_show .em_icon04{background-position: 0 -210px;}
+.form_show .em_icon05{background-position: 0 -280px;}
+.form_show .em_icon06{background-position: 0 -350px;}
+.form_show .em_icon07{background-position: 0 -420px;}
+.form_show .em_icon08{background-position: 0 -490px;}
+.form_show .em_icon09{background-position: 0 -560px;}
+.form_show .em_icon10{background-position: 0 -630px;}
+.form_show .em_icon11{background-position: 0 -700px;}
+.form_show .em_icon12{background-position: 0 -770px;}
+.form_show .em_icon13{background-position: 0 -840px;}
+.form_show .em_icon14{background-position: 0 -910px;}
+.form_show .em_icon15{background-position: 0 -980px;}
+.form_show .em_icon16{background-position: 0 -1050px;}
+.form_show .em_icon17{background-position: 0 -1120px;}
+.form_show .em_icon18{background-position: 0 -1190px;}
+.form_show .em_icon19{background-position: 0 -1260px;}
+.form_show .em_icon20{background-position: 0 -1330px;}
+.form_show .em_icon21{background-position: 0 -1400px;}
+.form_show .em_icon22{background-position: 0 -1470px;}
+.form_show .em_icon23{background-position: 0 -1540px;}
+
+.white{color:#fff; font-size: 18px;}
+a {
+    color: #333;
+    text-decoration: none;
+}
+ul, li {
+    list-style: outside none none;
+    margin: 0 auto;
+}
+img {
+    border: 0 none;
+    display: inline;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+}
+h4 {
+    font-size: 24px;
+    font-weight: normal;
+}
+.text-indent {
+    text-indent: 2em;
+}
+.red {
+    color: #df1344;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+.button p {
+    border: 1px solid #ffb900;
+    color: #ffb900;
+    line-height: 28px;
+    margin: 0 auto;
+    text-align: center;
+    width: 120px;
+}
+.button:hover p {
+    color: #ffb900;
+}
+.font_24 {
+    font-size: 24px;
+}
+.font_16 {
+    font-size: 16px;
+}
+.font_18 {
+    font-size: 18px;
+}
+.font_60 {
+    font-size: 28px;
+}
+.yellow {
+    color: #F49C19;
+}
+.blue {
+    color: #1d2736;
+}
+.clear {
+    clear: both;
+}
+.gray {
+    color: #333;
+}
+.gray_bg {
+    background-color: #fff;
+}
+.f_first {
+    background: url("../../image/zhishi/copyr_icon01.jpg") no-repeat scroll center top / 100% 100% rgba(0, 0, 0, 0);
+    padding-bottom: 115px;
+}
+.patent_mark {
+    padding-bottom: 70px;
+    padding-top: 115px;
+    text-align: center;
+}
+.inter_regist {
+    background: url("../../image/zhishi/copyr_icon38.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 350px;
+    margin: 0 auto;
+    width: 705px;
+}
+.registInfo {
+    height: 290px;
+}
+.registInfo li {
+    padding: 35px 50px;
+}
+.registInfo li > h1 {
+    border-bottom: 1px solid #c59a6d;
+    color: #fff;
+    font-size: 48px;
+    line-height: 80px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.registInfo li > p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 0;
+    padding-top: 15px;
+    text-align: left;
+}
+.registInfo li.gat > p {
+    line-height: 30px;
+}
+.registInfo li > a > p {
+    border: 1px solid #fea100;
+    color: #fff;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    margin: 15px auto 0;
+    text-align: center;
+    width: 120px;
+}
+.choose-title {
+    color: #fefefe;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 30px;
+    text-align: center;
+}
+.registbox {
+    background: url("../../image/zhishi/patent_icon02.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    height: 45px;
+    overflow: hidden;
+    padding-left: 80px;
+    padding-top: 15px;
+}
+.registbox > li {
+    border: 1px solid #818080;
+    color: #666;
+    float: left;
+    font-size: 18px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    width: 215px;
+}
+.registbox > li:hover {
+}
+.registbox > li > p {
+    color: #aaa6a5;
+    font-size: 14px;
+    line-height: 26px;
+    width: 215px;
+}
+.registbox > a:hover {
+    border: 1px solid #ffb900;
+    float: left;
+}
+.registbox .registlihover {
+    border: 1px solid #ffb900;
+    color: #ffb900;
+}
+.registbox .registlihover > p {
+    color: #ffb900;
+}
+.patent_ip {
+    background: url("../../image/zhishi/copyr_icon02.png") no-repeat scroll 0 22px rgba(0, 0, 0, 0);
+    height: 220px;
+    margin: 0 auto;
+    width: 70px;
+}
+.service {
+    background: url("../../image/zhishi/patent_icon05.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    margin: 0 auto;
+    padding: 20px 40px;
+    width: 810px;
+}
+.service h1 {
+    line-height: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.service_con {
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+.service_con_mid {
+    border: 1px solid #fff;
+    float: left;
+    height: 210px;
+    margin-left: 12px;
+    margin-right: 0;
+    padding: 15px 30px;
+    width: 545px;
+}
+.service_con_left {
+    border: 1px solid #a0a0a0;
+    float: left;
+    height: 200px;
+    padding: 20px;
+    width: 148px;
+}
+.service_con_left li {
+    color: #fff;
+    float: left;
+    font-size: 14px;
+    line-height: 30px;
+    width: 100%;
+}
+.service_con_left li a {
+    background: url("../../image/zhishi/patent_icon11.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    color: #fff;
+    display: block;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.service_con_left li a.cur {
+    background: url("../../image/zhishi/patent_icon10.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    text-decoration: none;
+}
+.service_con_left li ul {
+    color: #666;
+    display: none;
+    padding: 5px 0 5px 15px;
+}
+.service_con_left li ul li {
+    background-image: none;
+    float: none;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 0;
+}
+.service_con_left li ul li a {
+    background: url("../../image/zhishi/patent_icon12.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    display: block;
+    padding-left: 20px;
+}
+.service_con_left li ul a:hover {
+    color: #fea100;
+}
+.service_con_mid .notice {
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 100%;
+}
+.service_name {
+    margin-bottom: 15px;
+    overflow: hidden;
+    width: 100%;
+}
+.service_con_mid .notice > p {
+    color: #c7c7c7;
+    float: left;
+    font-size: 12px;
+    line-height: 22px;
+    width: 60px;
+}
+.scroll_div {
+    float: left;
+    height: 18px;
+    margin: 0 auto;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 460px;
+}
+.scroll_begin {
+    height: 18px;
+    margin-top: 0;
+}
+.scroll_div span {
+    display: inline;
+    line-height: 18px;
+    padding-right: 30px;
+}
+.scroll_div span a {
+    color: #c7c7c7;
+    font-size: 12px;
+    line-height: 18px;
+}
+.sroll_end {
+    display: inline;
+}
+.service_type p {
+    color: #fff;
+    float: left;
+    font-size: 24px;
+    height: 30px;
+    line-height: 30px;
+}
+.service_type label {
+    color: #fff;
+    font-size: 18px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+.service_name p {
+    color: #fff;
+    float: left;
+    line-height: 60px;
+    width: 100px;
+}
+.service_name input[type="text"] {
+    border: medium none;
+    color: #666;
+    float: left;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 15px;
+    width: 390px;
+}
+.service_name span {
+    background: none repeat scroll 0 0 #ffb900;
+    border: medium none;
+    color: #fff;
+    float: left;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    width: 140px;
+}
+.near_search {
+    height: 90px;
+    overflow: hidden;
+}
+.near_search > p {
+    color: #fff;
+    font-size: 12px;
+}
+.newsticker-jcarousellite {
+    margin-top: 8px;
+    padding-left: 60px;
+}
+.newsticker-jcarousellite ul li a {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.f_second ul {
+    margin-top: 50px;
+    overflow: hidden;
+}
+.classify12 {
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 18px;
+    width: 195px;
+    word-break: break-all;
+}
+.classify12 a {
+    color: #fff;
+    font-size: 12px;
+    line-height: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 13px;
+}
+.classify12 .classify_ct12 {
+    color: #fff;
+    display: none;
+    height: 160px;
+    text-align: center;
+    width: 195px;
+}
+.active_classify12 {
+    height: 160px;
+}
+.active_classify12 .con {
+    display: none;
+}
+.active_classify12 .classify_ct12 {
+    display: block;
+    height: 160px;
+    line-height: 160px;
+    position: absolute;
+    width: 195px;
+}
+.active_classify12 .classify_ct12 a {
+    color: #fff;
+    position: relative;
+}
+.f_three {
+    background: url("../../image/zhishi/copyr_icon02.png") no-repeat scroll center center / 100% 100% rgba(0, 0, 0, 0);
+    height: 589px;
+}
+.f_three h1 {
+    letter-spacing: 3px;
+    padding-bottom: 3px;
+    padding-top: 35px;
+}
+.f_three ul {
+    margin-top: 65px;
+    overflow: hidden;
+}
+.f_three ul li {
+    float: left;
+    margin-left: 4px;
+    margin-right: 6px;
+    text-align: center;
+    width: 230px;
+}
+.f_three ul li h4 {
+    padding: 10px 0 10px;
+}
+.f_three .three_info {
+    color: #fff;
+    font-size: 12px;
+    height: 110px;
+    overflow: hidden;
+    padding-bottom: 25px;
+    text-align: justify;
+    padding:0 10px;
+    line-height: 21px;
+}
+.f_sixth {
+    background-color: #f2f1f0;
+    border-bottom: 1px solid #a0a0a0;
+    position: relative;
+}
+.f_sixth h1 {
+    border-bottom: 1px solid #022157;
+    color: #022157;
+    letter-spacing: 5px;
+    line-height: 100px;
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 650px;
+}
+.f_sixth h6 {
+    color: #666666;
+    line-height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    width: 650px;
+}
+.patent_timer {
+    margin-top: 50px;
+    padding-bottom: 190px;
+    text-align: center;
+}
+.sixth_logo {
+    background: none repeat scroll 0 0 #f2f1f0;
+    height: 290px;
+    left: 38%;
+    position: absolute;
+    top: 580px;
+}
+.f_sixth .logo {
+    left: 95px;
+    position: relative;
+    top: -230px;
+}
+.f_seventh {
+    background-color: #f2f1f0;
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+.f_seventh a > p:hover {
+    color: #ff7f00;
+}
+.f_seventh_img {
+    text-align: center;
+}
+.f_seventh h5 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.online_blue {
+    border: 1px solid #00c6fe;
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    margin: 0 auto;
+    text-align: center;
+    width: 120px;
+}
+.f_eighth {
+    background: url("../../image/zhishi/copyr_icon03.jpg") repeat scroll 0 0 / 100% 100% rgba(0, 0, 0, 0);
+    height: 150px;
+}
+.f_eighth h1 {
+    padding-bottom: 5px;
+    padding-top: 25px;
+}
+.f_eighth h6 {
+    text-align: center;
+}
+.f_ninth {
+}
+.f_ninth ul {
+    margin: 80px auto 0;
+    overflow: hidden;
+    width: 1200px;
+}
+.f_ninth ul li {
+    background: url("../../image/zhishi/copyr_icon44.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: left;
+    height: 480px;
+    padding-top: 70px;
+    text-align: center;
+    width: 300px;
+}
+.f_ninth ul li:hover {
+    background: url("../../image/zhishi/copyr_icon43.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.f_ninth ul li h4 {
+    line-height: 50px;
+}
+.f_ninth ul li > img {
+    padding-bottom: 10px;
+}
+.f_ninth ul li a p {
+    background-color: #c59a6d;
+    color: #fff;
+    height: 32px;
+    line-height: 32px;
+    margin: 15px auto 0;
+    width: 170px;
+}
+.f_ninth ul li a:hover p {
+    color: #333;
+}
+.tenth {
+    background: #2C333D;
+    padding-bottom:50px;
+}
+.tenth h1 {
+    background: url("../../image/zhishi/copyr_icon45.png") no-repeat scroll center bottom rgba(0, 0, 0, 0);
+    padding-top: 40px;
+}
+.tenth ul {
+    margin-top: 25px;
+}
+.tenth ul li {
+    float: none;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: left;
+}
+.tenth ul li a {
+    display: block;
+    height: 40px;
+}
+.classify10 {
+    cursor: pointer;
+    position: relative;
+}
+.classify10 a {
+    color: #fff;
+}
+.f_twelfth {
+    height: 710px;
+}
+.f_twelfth h1 {
+    color: #1d2736;
+    letter-spacing: 3px;
+    padding-top: 40px;
+}
+.f_twelfth > .w1200 > img {
+    padding-bottom: 30px;
+}
+.f_fourth {
+    background: url("../../image/zhishi/copyr_icon05.jpg") no-repeat scroll center top / 100% 100% rgba(0, 0, 0, 0);
+    height: 783px;
+}
+.f_fourth h1 {
+    padding-top: 45px;
+}
+.f_fourth h6 {
+    line-height: 50px;
+    text-align: center;
+}
+.f_fourth ul {
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 25px;
+    width: 930px;
+}
+.f_fourth ul li {
+    float: left;
+    text-align: center;
+}
+.f_fourth ul li.fourth_left, .f_fourth ul li.fourth_right {
+    width: 340px;
+}
+.f_fourth ul li > div > p {
+    font-size: 16px;
+    line-height: 40px;
+}
+.f_fourth ul li.fourth_mid {
+    margin-left: 65px;
+    margin-right: 65px;
+    width: 120px;
+}
+.four_left {
+    background: url("../../image/zhishi/copyr_icon48.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 370px;
+    margin-top: 25px;
+    padding-top: 40px;
+}
+.four_mid {
+    height: 370px;
+    margin-top: 25px;
+    padding-top: 40px;
+}
+.four_right {
+    background: url("../../image/zhishi/copyr_icon49.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 370px;
+    margin-top: 25px;
+    padding-top: 40px;
+}
+.fourth_left p {
+    color: #fff;
+}
+.four_mid p {
+    color: #c59a6d;
+}
+.fourth_right p {
+    color: #999;
+}
+.more p {
+    border: 1px solid #c59a6d;
+    color: #c59a6d;
+    width: 180px;
+}
+.f_fivth .w1200 {
+    text-align: center;
+}
+.f_fivth .w1200 img {
+    padding-top: 40px;
+}
+.f_fivth .more {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 450px;
+}
+.f_fivth .more .button {
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.f_eleven {
+    background: url("../../image/zhishi/copyr_icon06.jpg") no-repeat scroll center top / 100% 100% rgba(0, 0, 0, 0);
+    height: 185px;
+    padding-top: 22px;
+}
+.f_eleven .eleven {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 1100px;
+}
+.f_eleven_tit {
+    border: 1px solid #c59a6d;
+    color: #c59a6d;
+    float: left;
+    font-size: 24px;
+    height: 158px;
+    letter-spacing: 8px;
+    line-height: 24px;
+    padding-top: 8px;
+    text-align: center;
+    width: 58px;
+    word-break: break-all;
+}
+.f_eleven_con {
+    float: left;
+    overflow: hidden;
+    width: 990px;
+}
+.f_eleven_con li {
+    float: left;
+    margin-bottom: 2px;
+    margin-left: 4px;
+    margin-top: 2px;
+    width: 135px;
+}
+.f_eleven_con li a {
+    border: 1px solid #c59a6d;
+    display: block;
+}
+.f_eleven_con li a p {
+    color: #fff;
+    font-size: 24px;
+    height: 78px;
+    line-height: 78px;
+    margin-left: 3px;
+    text-align: center;
+    width: 133px;
+}
+.f_eleven_con li a:hover p {
+    color: #c59a6d;
+}
+.f_thirteenth {
+}
+.f_thirteenth h1 {
+    border-bottom: 1px solid #9c9c9c;
+    line-height: 120px;
+    margin: 0 auto;
+    padding-top: 25px;
+    width: 1000px;
+}
+.f_thirteenth h6 {
+    color: #747474;
+    margin-top: 10px;
+    text-align: center;
+}
+.f_thirteenth ul {
+    overflow: hidden;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    width: 1100px;
+}
+.f_thirteenth ul li {
+    border-bottom: 1px dashed #c59a6d;
+    float: left;
+    margin-right: 50px;
+    overflow: hidden;
+    width: 500px;
+}
+.f_thirteenth ul li p {
+    color: #333;
+    float: left;
+    font-size: 18px;
+    line-height: 60px;
+    width: 385px;
+}
+.f_thirteenth ul li a p {
+    border: 1px solid #c59a6d;
+    color: #c59a6d;
+    float: right;
+    font-size: 12px;
+    height: 28px;
+    line-height: 28px;
+    margin-top: 20px;
+    text-align: center;
+    width: 110px;
+}
+.f_thirteenth ul li a p:hover {
+    color: #ffb900;
+}
+.tblogo {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll 0 24px rgba(0, 0, 0, 0);
+    float: left;
+    height: 71px;
+    width: 358px;
+}
+.tbdh {
+    float: left;
+    margin-left: 193px;
+}
+.tbdh ul {
+    float: left;
+    margin-top: 24px;
+}
+.tbdh ul li {
+    float: left;
+    height: 71px;
+    line-height: 71px;
+    padding: 0 10px;
+}
+.tbdh ul li a {
+    color: #333;
+    float: left;
+    font-size: 14px;
+}
+.tbdh ul li a:hover {
+    color: #c00;
+}
+.tbdh ul li img {
+    float: left;
+    margin-top: 27px;
+    padding: 0 5px;
+}
+.tbtel {
+    float: right;
+}
+.tbtel dl {
+    margin-top: 24px;
+}
+.tbtel dl dt {
+    height: 25px;
+    line-height: 25px;
+    text-align: right;
+}
+.tbtel dl dd {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll 1px -62px rgba(0, 0, 0, 0);
+    height: 25px;
+    line-height: 25px;
+    padding-left: 30px;
+}
+.tbtel dl dt a {
+    color: #333;
+    float: right;
+    padding: 0 5px;
+}
+.tbtel dl dt a:hover {
+    color: #c00;
+}
+.tbtel dl dt img {
+    float: right;
+    margin-top: 8px;
+}
+.top_left {
+    float: left;
+    padding-top: 20px;
+    width: 310px;
+}
+.top_right {
+    float: right;
+    width: 190px;
+}
+.top_right > p {
+    color: #666;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 30px;
+    text-align: right;
+}
+.top_right > p > span {
+    color: #666;
+}
+.top_right > p > a {
+    color: #666;
+    display: inline;
+}
+.top_right .tel {
+    text-align: right;
+}
+.topNav {
+    float: left;
+    height: 85px;
+    line-height: 85px;
+    margin-left: 60px;
+    width: 640px;
+    z-index: 1;
+}
+.topNav-width {
+}
+.top_menu li {
+    float: left;
+    line-height: 85px;
+    padding: 0 20px;
+}
+.top_menu li a {
+    font-size: 16px;
+}
+.top_menu li.current {
+    background: url("../../image/zhishi/nav_hover.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    color: #fff;
+}
+.top_menu li.current a {
+    color: #fff;
+    font-size: 16px;
+}
+.top_menu li.current a i {
+    background-position: 0 -60px;
+}
+.li_3 a {
+    color: #333;
+    display: inline-block;
+    width: 100%;
+}
+.li_3 {
+    position: relative;
+    z-index: 100;
+}
+.li_3 a i {
+    background: url("../../image/zhishi/icon_1.png") no-repeat scroll 0 -200px rgba(0, 0, 0, 0);
+    display: inherit;
+    height: 6px;
+    margin-left: 5px;
+    width: 10px;
+}
+.li_3 a.noclick {
+}
+.li_3_content {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7) !important;
+    display: none;
+    height: 180px;
+    left: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 85px;
+    width: 100%;
+    z-index: 99;
+}
+.li_3_content a:hover {
+    color: #f18336 !important;
+}
+.li_3_content dd {
+    margin: 0 auto;
+    padding: 0 8px;
+    width: 80%;
+}
+.top_menu ul li dd a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #989898;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.li_3_content dd a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-right: medium none;
+    color: #fff;
+    display: inline-block;
+    font-weight: normal;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+.li_3_content dd.lastItem {
+    background-image: none;
+    border-bottom: 1px solid #e6e4e3;
+}
+.li_3_content dd.lastItem a {
+    border-bottom: medium none;
+}
+.li_3_content dd a:hover span {
+    background: url("../../image/zhishi/dot.jpg") repeat-x scroll center bottom rgba(0, 0, 0, 0);
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.csph {
+    left: 266px;
+    position: absolute;
+    top: 500px;
+}
+.csph ul li {
+    background-color: #db5861;
+    float: left;
+    height: 140px;
+    margin: 0 15px;
+    overflow: hidden;
+    width: 178px;
+}
+.csph ul li img {
+    padding: 6px;
+}
+.cs {
+    margin: 0 auto;
+    width: 1170px;
+}
+.fw {
+    color: #fff;
+    margin: 0 auto;
+    width: 1170px;
+}
+.one {
+    height: 100px;
+    margin-top: 60px;
+}
+.fw dl {
+    float: left;
+    font-size: 16px;
+    padding: 0 78px 0 0;
+}
+.fw .zc {
+    padding: 0;
+}
+.fw dl dt {
+    line-height: 30px;
+}
+.fw dl dd {
+    margin-top: 20px;
+    width: 100px;
+}
+.fwone dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll 16px -552px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.gz dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -56px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.zy dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -160px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.qw dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -243px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.gx dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -340px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.bz dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -401px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.zc dt {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll -505px -548px rgba(0, 0, 0, 0);
+    display: block;
+    height: 38px;
+    width: 61px;
+}
+.phone {
+    height: 300px;
+}
+.phleft {
+    float: left;
+    margin-right: 15px;
+}
+.phright {
+    float: left;
+    font-size: 12px;
+    position: relative;
+    width: 986px;
+}
+.phright p {
+    background: url("../../image/zhishi/yewu.png") repeat scroll 2px -588px rgba(0, 0, 0, 0);
+    display: block;
+    height: 112px;
+    width: 702px;
+}
+.phright span {
+    display: inline-block;
+    position: absolute;
+}
+.phright .cp1 {
+    left: 57px;
+    top: 57px;
+}
+.phright .cp2 {
+    left: 57px;
+    top: 115px;
+}
+.phright .cp3 {
+    left: 377px;
+    top: 115px;
+}
+.phright .cp4 {
+    left: 650px;
+    top: 115px;
+}
+.phright i {
+    position: absolute;
+    right: 10px;
+    top: 2px;
+}
+.fre {
+    margin: 0 auto;
+    width: 1170px;
+}
+.refo {
+    margin-top: 30px;
+}
+.fre p {
+    clear: both;
+    color: #fff;
+    line-height: 30px;
+    text-align: center;
+}
+.fre p a {
+    color: #fff;
+    float: left;
+}
+.fre p span {
+    float: left;
+    padding: 0 10px;
+}
+.jx {
+    background: url("../../image/zhishi/yewu.png") no-repeat scroll 234px -695px rgba(0, 0, 0, 0);
+    height: 60px;
+    width: 1003px;
+}
+.gy {
+    margin-left: 195px;
+}
+.cp1 b {
+    font-weight: normal;
+    padding: 0 50px 0 0;
+}
+.you_like {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5) !important;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+.y_like_con {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 1200px;
+}
+.y_like_con p.like {
+    background: url("../../image/zhishi/like.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    color: #fff;
+    float: left;
+    font-size: 16px;
+    line-height: 50px;
+    margin-right: 10px;
+    padding-left: 25px;
+}
+.y_like_con a p {
+    background: none repeat scroll 0 0 #c59a6d;
+    color: #fff;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    text-align: center;
+    width: 150px;
+}
+.form1, .form2 {
+    left: 35%;
+    position: fixed;
+    top: 10px;
+    z-index: 9999;
+}
+.mask {
+    background: none repeat scroll 0 0 #000;
+    bottom: 0;
+    left: 0;
+    opacity: 0.8;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1040;
+}
+.font_18 {
+    cursor: pointer;
+}
+a {
+    cursor: pointer;
+}
+.f_fourth ul li.fourth_right {
+    padding-top: 10px;
+}
+.wenjian{width:950px; margin:0 auto; padding:40px 0;}
+.dj_left{float: left; width:400px; height:450px; border: 1px solid #e8e8e8; position: relative;}
+.overflow{overflow: hidden;}
+.dj_bg01,.dj_bg02{width:400px; height:100px; background: #f6f6f6; font-size:18px; line-height: 100px; text-align: center; color:#FFF; font-weight: 600}
+.dj_bg01{background: url(../../image/zhishi/pic01.png) 0 0 no-repeat;}
+.dj_bg02{background: url(../../image/zhishi/pic02.png) 0 0 no-repeat;}
+.dj_list{width:270px; padding:30px 0 0;}
+.dj_list_li{font-size:14px; color: #666; padding-bottom: 8px;}
+.dj_list_li span{width:7px; height:7px; background: #ccc; margin:9px 8px 0 0; display: block; float: left;}
+.dj_list_li p{float: left; width:251px;}
+.openQ{position: absolute; left:115px; bottom: 45px; width:160px; height:35px; line-height: 35px; font-size:14px; text-align: center; color:#ffb900; border: 1px solid #ffb900; display: block;}
+.openQ:hover{background: #ffb900; color:#fff;}
+.w1036 .bq_lc{width:1100px; margin:46px auto 0;}
+.tenth .bq_lc_list{width:235px; height:275px; margin:0 10px 20px; float: left; background: #fff; padding:10px 10px 0;}
+.bq_lc_list .lc_list_bg01{width:200px; height:75px; padding:25px 15px 0;background: #f49c19; font-size:16px; line-height:26px;}
+.lc_list_bg{width:230px; height:100px; text-align: center; line-height: 100px;background: url(../../image/zhishi/pic03.png) 0 0 no-repeat; font-size: 26px; color:#fff; font-weight: 600}
+.lc_list_text{width:230px;}
+.lc_list_text p{font-size:14px; color:#666; text-align: center; height:75px; line-height: 23px; padding:15px 5px;}
+.bq_lc_list .lc_list_text a{display: block; width:150px; height:30px; line-height: 30px; border: 1px solid #f49c19; text-align: center; font-size:14px; color: #f49c19; margin: 0 auto;}
+.bq_lc_list .lc_list_text a:hover{border: 1px solid #f49c19; background: #f49c19; color: #fff;}

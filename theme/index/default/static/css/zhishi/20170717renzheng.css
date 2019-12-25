@@ -1,0 +1,55 @@
+﻿.renzheng_img{ width: 100%; height: 350px; display: block;background: url(../images/20170717renzheng01.jpg) no-repeat;}
+.renzheng_atxt{ width: 740px; text-align: center; padding: 70px  0 0 250px; overflow: hidden;}
+.renzheng_atxtp01{ font-size: 22px; font-weight: bold; color: #fff;}
+.renzheng_atxtp02{ font-size: 38px; font-weight: bold;color: #fff; border-top: 1px solid #b5cbea; border-bottom: 1px solid #b5cbea; padding: 18px 0; margin-top: 18px;}
+.renzheng_atxtp03 img{  margin-right: 10px; padding-top: 5px;}
+.renzheng_atxtp03{ text-align: center; font-size: 20px; color: #fff; padding-top: 20px;}
+.renzheng_atxtp02 b{color: #ffea00;}
+.w_100{ width: 100%;}
+.mainwrap{ width: 1220px;margin: 0 auto; overflow: hidden;}
+.noBold{ color: #333;}
+.qiyerz_p01{font-size: 14px; color: #666; text-align: center; line-height: 30px;}
+.qiyerz_p02{font-size: 14px; color: #666;text-align: center;line-height: 30px;}
+.qiyerz_b{ font-weight: normal;color: #ff5256;}
+.qiyerzfw_list{ width: 100%; overflow: hidden; margin-top: 50px;}
+.qiyerzfw_libg{ width: 184px; height: 139px; margin-bottom: 40px; text-align: center;background: url(../images/20170717qiyerz01.png) no-repeat center;}
+.qiyerzfw_libg02{background: url(../images/20170717qiyerz02.png) no-repeat center;}
+.qiyerzfw_libg03{background: url(../images/20170717qiyerz03.png) no-repeat center;}
+.qiyerzfw_libg04{background: url(../images/20170717qiyerz04.png) no-repeat center;}
+.qiyerzfw_li{ width: 184px; height: 382px; margin-right: 28px; padding: 60px 50px 0; float: left;background: #f5f6fa;}
+.qiyerzfw_lisp01{ position: relative; margin-top: 30px;}
+.qiyerzfw_lispan01{ height: 7px; width: 7px; border-radius: 50%; background:#51afff; display: inline-block; position: absolute; left: 0; top: 7px;}
+.qiyerzfw_lispan02{ font-size: 14px; color: #333333; margin-left: 15px; display: inline-block;}
+.qiyerzfw_libgtxt{ text-align: center; font-size: 18px; color: #fff; font-weight: bold; line-height: 139px;}
+.qiyerzfw_li:nth-child(4){ margin-right: 0;}
+.qiyerz_p02wrap{ padding: 0 15px;}
+.jingzheng_ul{ width: 100%; padding: 70px 0 50px 0; overflow: hidden;}
+.jingzheng_li{ width: 220px; height: 33px; border: 1px solid #51afff; color: #51afff; text-align: center; line-height: 33px; border-radius: 8px; font-size: 14px; float: left;margin-right: 26px; margin-bottom: 32px;}
+.jingzheng_li:nth-child(5n){margin-right: 0;}
+.jingzheng_ul01{width: 100%; overflow: hidden;}
+.jingzheng_li01{ width: 133px; height: 145px;  text-align: center; float: left; margin-right: 12px; background: #f5f6fa; font-size: 14px; color: #666; padding: 20px 30px 0 30px;}
+.jingzheng_li01bg01{background: url(../images/20170717renzheng03.jpg) no-repeat; line-height: 115px; color: #fff; font-size: 16px; font-weight: bold;}
+.jingzheng_li01span{ font-size: 22px; width: 50px; display: inline-block; font-weight: bold; color: #535353; border-bottom:2px solid #51afff;}
+.jingzheng_li01p{ padding-top: 20px; line-height: 30px;}
+.renzhengp03{ padding-top: 40px; color: #51afff; font-size: 16px; text-align: center;}
+.jingzheng_ul03{ width: 980px; margin: 0 auto;}
+.jingzheng_txt{  background: #fff; padding:40px 110px 40px 210px; }
+.jingzheng_txtdot{ width: 6px; height: 6px; margin-right: 10px; vertical-align: middle; background: #51afff; display: inline-block;}
+.jingzheng_txtp01{ font-size: 14px; color: #333; margin-bottom: 15px;}
+.jingzheng_ul05{width: 100%; overflow: hidden; margin-top: 22px;}
+.jingzheng_ul05li{ width: 496px; height: 212px; padding-top: 70px; padding-left: 100px; background: #fff; float: left; margin-right: 26px; font-size: 14px; color: #333;}
+.jingzheng_ul05lil{ width: 129px; height: 127px;  float: left; font-size: 16px; line-height: 127px; color: #fff; font-weight: bold; text-align: center;}
+.jingzheng_ul05lilbg{ background: url(../images/20170717renzhengtel02.png) no-repeat center;}
+.jingzheng_ul05lilbg02{background: url(../images/20170717renzhengtel03.png) no-repeat center;}
+.jingzheng_ul05lir{ margin-left: 160px; padding-top: 10px;}
+.jingzheng_txtbtn{ width: 120px; height: 35px; display: inline-block; text-align: center; font-size: 14px; color: #fff; line-height: 35px; background: #51afff;}
+.jingzheng_txtbtn:hover{background: #3598ec;}
+
+
+
+
+
+
+
+
+

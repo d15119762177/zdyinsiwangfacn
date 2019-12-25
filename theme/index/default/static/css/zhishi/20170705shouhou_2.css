@@ -1,0 +1,38 @@
+﻿.big_wrap{ margin-top: 48px;}
+.posi_box{ position: relative; height: 340px;}
+.posi_boxpos{ position: absolute; top: -30px; left: 0;}
+.wrap_c_li{  width: 350px;}
+.wrap_c_li:nth-child(3n){ margin-right: 0;}
+.wrap_c_li:hover{background: #f7f7f7;}
+.wrap_c_li h6{ font-size: 16px;}
+.wrap_c_li p{ font-size: 14px;}
+.article_textl{float: left; width: 100px; font-size: 14px; color: #333;line-height: 30px;}
+.article_textcon{ margin-left: 100px; font-size: 14px; color: #666;}
+.article_textcon p{ line-height: 30px; padding-bottom: 30px;}
+.dlupate dt a{ color: #333;}
+.dlupate dd a{ cursor: default;}
+.jinpaifwa{ height: 37px; line-height: 37px; padding-left: 20px; font-size: 13px; color: #333; display: block;}
+.jinpaifwab{ height: 36px; cursor: pointer;border-left: 2px solid #fff;}
+.jinpaifwab:hover{ background: #f9f9f9;border-left: 2px solid #ff5256; }
+.jinpaifwa:hover{color: #ff5256;}
+.jinpaifwabcur{background: #f9f9f9;border-left: 2px solid #ff5256;}
+.jinpaifwabcur .jinpaifwa{color: #ff5256;}
+.big_wrap01{     background: url(../images/bannerjinpai_2.jpg) center center no-repeat; }
+ /*医疗*/
+  .medical_ul{ width: 1200px; margin-top: 50px; /*height: 205px; overflow: hidden;*/}
+  .medical_li{width: 300px; height: 190px; float: left;margin:50px 50px 0; }
+  .medical_lia{width: 300px; height: 205px; background: url(../images/bg_medical_2.png) no-repeat center bottom; display: inline-block; text-decoration: none; }
+.medical_lidt{width: 300px; height: 112px;}
+.medical_lidt01{background: url(../images/medical01_2.png) no-repeat; background-size: cover;}
+.medical_lidt02{background: url(../images/medical02_2.png) no-repeat; background-size: cover;}
+.medical_lidt03{background: url(../images/medical03_2.png) no-repeat; background-size: cover;}
+.medical_lidt04{background: url(../images/medical04_2.png) no-repeat; background-size: cover;}
+.medical_lidt05{background: url(../images/medical05_2.png) no-repeat; background-size: cover;}
+.medical_lidt06{background: url(../images/medical06_2.png) no-repeat; background-size: cover;}
+.medical_lidt07{background: url(../images/medical07_2.png) no-repeat; background-size: cover;}
+.medical_lidl{ background: #fff;width: 300px; height: 190px;border-radius: 10px; }
+.medical_lidtspanwrap{display: block;padding: 30px 0 0 26px;color: #fff;}
+.medical_lidtspan01{ font-size: 18px; display:inline-block; font-weight: 700;  width: 100%;}
+.medical_lidtspan02{ height: 2px; width: 115px; display: block; background: #fff;opacity: 0.7; margin: 5px 0;}
+.medical_lidtspan03{display: block;font-size: 14px;}
+.medical_lidd{ font-size: 12px;color: #313131; margin-top: 10px; padding: 0 15px;}

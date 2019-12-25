@@ -1,0 +1,241 @@
+﻿.banner{position:relative;width:100%;height:420px;overflow: hidden;}
+
+
+p.indTit {
+    color: #3498db;
+    font-size: 24px;
+    position: relative;
+    text-align: center;
+    line-height:50px;
+}
+p.indTit .line {
+    left: 0;
+    line-height: 0;
+    position: absolute;
+    top: 16px;
+    z-index: -1;
+    width:100%;
+}
+p.indTit span {
+    background: none repeat scroll 0 0 #fff;
+}
+
+.indRZ{font-size:18px;text-align:center;line-height:40px;margin:20px 0px;}
+
+.w1000 {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 1000px;
+}
+ .indM1 span {
+    color: #cd0a0a;
+}
+.indM1 p {
+    font-size: 14px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 210px;
+    margin:10px 0px;
+}
+.indM1 img {
+    display: block;
+    margin: -20px auto 0;
+}
+.indM1 {
+    height: 224px;
+    margin: 30px auto;
+    position: relative;
+    width: 900px;
+}
+
+.line {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    height: 0;
+    width: 100%;
+}
+p.indTit span {
+    background: none repeat scroll 0 0 #fff;
+}
+.about_p{margin:5px 0px;line-height:20px;text-indent:2em;}
+.indM2{width:100%;background:#f8f8f8;padding-bottom:10px;overflow:hidden;margin-top:45px}
+
+.indM2 p.indTit1{text-align:center;font-size:24px;background:#3498db;color:#fff;line-height:55px;position:relative;overflow:hidden;margin-top:0}
+.indM2 p.indTit1 .tri-t {
+    border-bottom: 55px solid #ffcc28;
+    right: 0;
+}
+
+.indM2 p.indTit1 .tri-b, .indM2 p.indTit1 .tri-t {
+    border-left-width: 40px;
+    border-right-width: 40px;
+    position: absolute;
+    top: 0;
+}
+
+.indM2 p.indTit1 .tri-b {
+    border-top: 55px solid #ffcc28;
+    left: 0;
+}
+.tri {
+    border: 0 solid transparent;
+    display: block;
+    height: 0;
+    width: 0;
+}
+.indM2 div.px p img {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.indM2 div.px p span {
+    position: relative;
+    z-index: 1;
+}
+.indM2 a {
+    color: #333;
+    text-decoration: none;
+}
+.indM2 div.px p {
+    float: left;
+    font-size: 14px;
+    height: 34px;
+    line-height: 34px;
+    margin-left: 35px;
+    position: relative;
+    text-align: center;
+    width: 203px;
+    margin:10px;
+}
+.fl {
+    float: left;
+}
+.indM2_1 > .fl, .indM2_1 > .fr {
+    overflow: hidden;
+    width: 49.5%;
+}
+.red {
+    color: #cd0a0a;
+}
+.tixirz{text-align:center;font-size:18px;margin:10px 0px;}
+        
+.indM2_1 > .fr > div {
+    background: none repeat scroll 0 0 #1f2229;
+    border-bottom: 1px solid #cfd2d4;
+    height: 60px;
+    overflow: hidden;
+    width: 100%;
+}
+.indM2_1 > .fr > div .fr {
+    color: #fff;
+    line-height: 18px;
+    text-align: left;
+    width: 300px;
+}
+.indM2_1 > .fr > div .fr span {
+    display: block;
+    font-size: 18px;
+    margin-top: 12px;
+}
+ .indM2_1 > .fr {
+    border: 1px solid #cfd2d4;
+    height: 250px;
+    margin-top: 25px;
+    overflow: hidden;
+    width: 413px;
+    margin-right:30px;
+}
+.indM2_1 > .fr > P {
+    font-size: 14px;
+    line-height: 25px;
+    margin: 30px auto 0;
+    text-align: left;
+    width: 60%;
+}
+.fr {
+    float: right;
+}
+
+.indM2_2 div.a1 .fl:first-child {
+    width: 88px;
+}
+
+.indM2_2 div.a1 span {
+    color: #000;
+    font-weight: 700;
+}
+ .indM2_2 div.a1 .fl {
+    width: 372px;
+}
+.indM2_2 div.a1 {
+    line-height: 30px;
+    margin-left: 36px;
+    width: 460px;
+}
+.indM2_2 div.m1 > div > img {
+    position: relative;
+    top: -68px;
+}
+ .indM2_2 div.m1 > div > span {
+    display: block;
+    font-size: 20px;
+    left: 186px;
+    position: absolute;
+    top: -15px;
+}
+.indM2_2 div.m1 {
+    height: 255px;
+    margin-top: 120px;
+    width: 100%;
+}
+.indM2_2 div.m1 .fl {
+    margin-left: 46px;
+}
+.indM2_2 div.m1 > div {
+    background: none repeat scroll 0 0 #daedfa;
+    height: 255px;
+    position: relative;
+    text-align: center;
+    width: 450px;
+}
+.indM2_2 div.m1 .fl > span {
+    color: #fff;
+}
+.indM2_2 div.m1 > div p {
+    font-size: 16px;
+    line-height: 36px;
+    margin: -66px auto 0;
+    width: 256px;
+}
+.indM2_2 div.m1 > div a span {
+    color: #fff;
+    font-size: 18px;
+    line-height: 32px;
+    margin-right: 36px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
+.indM2_2 div.m1 > div a {
+    display: block;
+    height: 32px;
+    margin: 15px auto 0;
+    position: relative;
+    width: 198px;
+}
+.indM2_2 div.m1 > div a img {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.indM2_2 div.px p {
+    float: left;
+    font-size: 14px;
+    height: 34px;
+    line-height: 34px;
+    margin-left: 35px;
+    position: relative;
+    text-align: center;
+    width: 203px;
+}

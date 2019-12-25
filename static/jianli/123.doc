@@ -1,0 +1,25 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"  xmlns:w="urn:schemas-microsoft-com:office:word"  xmlns="http://www.w3.org/TR/REC-html40">
+              <head>
+                   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+                   <xml><w:WordDocument><w:View>Print</w:View></xml>
+            </head><body><style>
+            .onle_bm{ width:50%; line-height:50px; font-size:30px; text-align:center; color:#ff1d00;margin: 0px auto;font-weight: bold;}
+            .onle_bts{ width:50%; line-height:30px; font-size:20px; color:#000000; margin:0px auto;}
+            .onle_bd{ width:50%; margin:0px auto; padding-top:20px;}
+            .onle_bd table{ border-right: 1px solid #000;  border-bottom: 1px solid #000;height: 40px;}
+            .onle_bd td{font-size: 14px; color: #000; border-left: 1px solid #000;  border-top: 1px solid #000;height: 40px;}
+            
+            </style><div class="onle_bm">建议书材料</div>
+            <br>
+            <br>
+            <div class="onle_bts">1.保险产品:英国保诚-挚为你优越医疗保险计划</div>
+            <div class="onle_bts">2.姓名： 黄志达</div>
+            <div class="onle_bts">3.性别： 女</div>
+            <div class="onle_bts">4.出生年月：2018-09-11</div>
+            <div class="onle_bts">5.是否抽烟：不抽烟</div>
+            <div class="onle_bts">6.保额：1000000</div>
+            <div class="onle_bts">7.保费：1516554</div>
+            <div class="onle_bts">8.缴费年期：25</div>
+            <div class="onle_bts">9.国籍：中国</div>
+            <div class="onle_bts">10.备注：</div>
+            </body></html>
